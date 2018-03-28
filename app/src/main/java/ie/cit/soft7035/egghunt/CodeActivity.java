@@ -64,7 +64,7 @@ public class CodeActivity extends AppCompatActivity {
 
         clueNumber.setText("Clue " + level);
         clue1.setText(Code.clues[level-1][0]);
-        clue1.setText(Code.clues[level-1][1]);
+        clue2.setText(Code.clues[level-1][1]);
 
     }
 
