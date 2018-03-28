@@ -70,7 +70,11 @@ public class CodeActivity extends AppCompatActivity {
 
     private void checkCode() {
         codeText = codeEditText.getText().toString();
+        System.out.println("cet:" + codeEditText.toString());
         if (!TextUtils.isEmpty(codeText)) {
+            System.out.println("Code.codes.length");
+            System.out.println(level);
+            System.out.println(Code.codes[level-1]);
             if (codeText.equalsIgnoreCase(Code.codes[level-1])) {
                 codeEditText.setText("");
                 success();
