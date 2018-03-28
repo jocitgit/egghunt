@@ -25,7 +25,7 @@ public class CodeActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_code);
 
-        EditText codeEditText = findViewById(R.id.codeEditText);
+        codeEditText = findViewById(R.id.codeEditText);
 
         if (savedInstanceState != null) {
             level = savedInstanceState.getInt("level");
@@ -69,8 +69,9 @@ public class CodeActivity extends AppCompatActivity {
     }
 
     private void checkCode() {
-        codeText = codeEditText.getText().toString();
         System.out.println("cet:" + codeEditText.toString());
+        codeText = codeEditText.getText().toString();
+
         if (!TextUtils.isEmpty(codeText)) {
             System.out.println("Code.codes.length");
             System.out.println(level);
