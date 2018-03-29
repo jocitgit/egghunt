@@ -17,14 +17,14 @@ public class Code {
             "code8"};
 
     public static final String[][] clues = {
-            {"c1l1", "c1l2"},
-            {"c2l1", "c2l2"},
-            {"c3l1", "c3l2"},
-            {"c4l1", "c4l2"},
-            {"c5l1", "c5l2"},
-            {"c6l1", "c6l2"},
-            {"c7l1", "c7l2"},
-            {"c8l1", "c8l2"}};
+            {"Play this if you're feeling bored,", "A game where tiny goals are scored."},
+            {"Out on the lake, to stay afloat,", "You'll need to find a rowing boat."},
+            {"Park your car and look around,", "Who knows what's lurking on the ground?"},
+            {"You must be careful not to trip,", "When looking for a place to zip."},
+            {"Hubble bubble, toil and trouble,", "Bathe outside and watch it bubble!"},
+            {"This gazebo's painted blue,", "Find it for another clue."},
+            {"The Easter Bunny likes his greens,", "But where would he grind coffee beans?"},
+            {"99 bottles of beer on the wall,", "I hope the fish don't drink it all!"}};
 
 
 
