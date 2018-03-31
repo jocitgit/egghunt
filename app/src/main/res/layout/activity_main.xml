@@ -16,17 +16,31 @@
         tools:textColor="@android:color/black" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/textView2a"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Follow the clues and use your eyes,"
+        android:text="Follow the clue to somewhere new,"
         android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/textView2b"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Crack the codes to win the prize"
+        android:text="Find the package there for you,"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
+
+    <TextView
+        android:id="@+id/textView3a"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Solve the riddle on your own,"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
+
+    <TextView
+        android:id="@+id/textView3b"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Type the answer in your phone."
         android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
 
     <Button
