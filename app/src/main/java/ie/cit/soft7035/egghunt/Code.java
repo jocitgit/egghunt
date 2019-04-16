@@ -7,26 +7,24 @@ package ie.cit.soft7035.egghunt;
 public class Code {
 
     public static final String[] codes = {
-            "table",
-            "nothing",
-            "stick",
-            "carrot",
-            "towel",
-            "short",
-            "clock",
-            "fiiish"};
+            "easter2019",
+            "bunny",
+            "hunt",
+            "chick",
+            "lamb",
+            "bonnet",
+            "eggs",
+            "chocolate",
+            "prize"};
 
     public static final String[][] clues = {
-            {"Play this if you're feeling bored,", "A game where tiny goals are scored."},
-            {"Out on the lake, to stay afloat,", "You'll need to find a rowing boat."},
-            {"Park your car and look around,", "Who knows what's lurking on the ground?"},
-            {"You must be careful not to trip,", "When looking for a place to zip."},
-            {"Hubble bubble, toil and trouble,", "Bathe outside and watch it bubble!"},
-            {"This outdoor seat is painted blue,", "Find it for another clue."},
-            {"The Easter Bunny likes his greens,", "But where would he grind coffee beans?"},
-            {"99 bottles of beer on the wall,", "I hope the fish don't drink it all!"}};
-
-
-
-
+            {"The password you found yesterday", "Will help to get you on your way."},
+            {"So many films for you to view", "But where will you find Little Bamboo?"},
+            {"In Mum's bedroom there's a drawer,", "Start at the top and count down 4."},
+            {"Weetabix and Cheerios,", "Is there something here? Who knows?"},
+            {"Dressing up is fun to do,", "Perhaps there's something here for you!"},
+            {"A game with discs that float on air,", "Maybe you'll find something there."},
+            {"Aiden's socks are kept in here,", "They're all clean - no need to fear!"},
+            {"There's no need to use a fire,", "This is where your clothes get drier."},
+            {"Is it a game or something more?", "Can you evolve a dinosaur?"}};
 }

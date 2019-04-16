@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:background="@color/colorPrimaryDark"
         android:gravity="center_horizontal"
-        android:text="Congratulations!"
+        android:text="Almost there!"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         tools:textColor="@android:color/black" />
 
@@ -19,14 +19,14 @@
         android:id="@+id/textView7"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="You've won the prize, so make your way"
+        android:text="To bring this egg hunt to a close"
         android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
 
     <TextView
         android:id="@+id/textView8"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="To where employees earn their pay"
+        android:text="Check where Mum hangs up her clothes"
         android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
 
 

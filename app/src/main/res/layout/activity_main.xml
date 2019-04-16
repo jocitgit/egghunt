@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:background="@color/colorPrimaryDark"
         android:gravity="center_horizontal"
-        android:text="Welcome to EggHunt!"
+        android:text="Welcome to EggHunt 2019!"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         tools:textColor="@android:color/black" />
 
@@ -19,28 +19,28 @@
         android:id="@+id/textView2a"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Follow the clue to somewhere new,"
+        android:text="The Easter Bunny left behind"
         android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
 
     <TextView
         android:id="@+id/textView2b"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Find the package there for you,"
+        android:text="A footprint trail for you to find."
         android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
 
     <TextView
         android:id="@+id/textView3a"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Solve the riddle on your own,"
+        android:text="On each footprint there's a code"
         android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
 
     <TextView
         android:id="@+id/textView3b"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Type the answer in your phone."
+        android:text="To guide you to the Mother Load!"
         android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
 
     <Button
